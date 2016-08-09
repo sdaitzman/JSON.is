@@ -51,7 +51,7 @@ For example, to write a doc for any property within `engines`:
 '''
 ```
 
-You can use regular expression syntax to create a section which will match both the parent, and it's children:
+You can use regular expression syntax to create a section which will match both the parent, and its children:
 
 ```coffeescript
 'engines(\.PROPERTY)?': '''
